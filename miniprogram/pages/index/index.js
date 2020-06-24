@@ -120,6 +120,11 @@ Page({
   },
   tapDialogButton: function (param) {
     console.log(param.detail.item.text);
+    if (param.detail.item.text === "确认") {
+      wx.navigateTo({
+        url: "../welcome/index",
+      });
+    }
     this.setData({ showDialog: false });
   },
 });

@@ -1,0 +1,10 @@
+<!-- miniprogram/pages/welcome/index.wxml -->
+<view class="welcome-page">
+  <view class="inner-box">
+    <text class="title">Alpha R</text>
+    <text class="desc">开启下一段精彩人生</text>
+    <image src="../../images/welcome_bg.jpg" />
+  </view>
+  <text class="counter">{{counter}}</text>
+  <text class="skip" bind:tap="onSkip">跳过</text>
+</view>

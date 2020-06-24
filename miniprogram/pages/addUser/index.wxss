@@ -1,0 +1,12 @@
+/* miniprogram/pages/addUser/index.wxss */
+.add-user {
+}
+.portrait {
+  text-align: center;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
