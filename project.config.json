@@ -30,7 +30,7 @@
 	},
 	"appid": "wx1e3ce9e9ca98be58",
 	"projectname": "alpha-r",
-	"libVersion": "2.11.3",
+	"libVersion": "2.11.2",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
